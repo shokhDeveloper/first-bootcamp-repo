@@ -12,3 +12,5 @@ function sayHello(){
 }
 
 sayHello();
+
+console.log('DEV branch console')
