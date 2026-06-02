@@ -14,3 +14,5 @@ function sayHello(){
 sayHello();
 
 console.log('DEV branch console')
+
+console.log('DEV branch console 2')
